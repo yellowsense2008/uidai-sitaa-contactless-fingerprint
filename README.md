@@ -22,11 +22,9 @@
 
 ## 📱 **Android APK Download**
 
-### **[Download APK](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/apk/contactless-fingerprint)** ⬇️
+### **[Download APK-Track C and Track D](https://github.com/yellowsense2008/YellowSense_Contactless_Fingerprint/blob/main/apk/YellowSense_contactless_fingerprint_trackC_andtrackD.apk)** ⬇️
 
-**Quick Demo:**
-- [📹 Watch Demo Video](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/Demo/demo-video)
-- Installation guide in APK folder
+### **[Download APK-Track A](https://github.com/yellowsense2008/YellowSense_Contactless_Fingerprint/blob/main/apk/FingerPrintTrackA.apk)** ⬇️
 
 ---
 
@@ -361,16 +359,7 @@ Frame Rate: 10 FPS from browser camera
 
 ---
 
-## 🎥 **Demo & Documentation**
-
-### **📹 Video Demonstration**
-**[Watch Full Demo](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/Demo/demo-video)**
-
-Demonstrates:
-- Track A: Quality assessment workflow
-- Track C: Fingerprint matching process
-- Track D: Liveness detection
-- End-to-end authentication flow
+##  **Documentation**
 
 ### **📊 Pitch Deck**
 **[View Presentation](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/PitchDeck/pitch-deck)**
@@ -431,8 +420,10 @@ Detailed technical proposal including:
 
 ### **Installation Steps**
 
-1. **Download APK**
-   - [Download from repository](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/apk/contactless-fingerprint)
+1. **Download APK (Track C and Track D)**
+   - [Download from repository](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/apk/YellowSense_contactless_fingerprint_trackC_andtrackD.apk)
+   **Download APK (Track A)**
+   - - [Download from repository](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/apk/FingerPrintTrackA.apk)
 
 2. **Enable Installation from Unknown Sources**
    - Settings → Security → Unknown Sources → Enable
