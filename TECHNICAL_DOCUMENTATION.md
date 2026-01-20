@@ -13,10 +13,10 @@
 
 ## 📱 **Quick Links**
 
-- **[Download APK](../apk/app-release.apk)** - Android application
-- **[Watch Demo Video](../demo/demo-video.mp4)** - Full demonstration
-- **[View Pitch Deck](../pitch-deck/YellowSense-UIDAI-SITAA-Pitch.pptx)** - Presentation
-- **[Read Full Proposal](../proposal/updated_proposal_YellowSense_Tech.pdf)** - Complete technical proposal
+- **[Download APK](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/apk/contactless-fingerprint.apk)** - Android application
+- **[Watch Demo Video](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/Demo/demo-video.mp4)** - Full demonstration
+- **[View Pitch Deck](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/PitchDeck/pitch-deck.pdf)** - Presentation
+- **[Read Full Proposal](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/Proposal_Document/updated_proposal_YellowSense_Tech.pdf)** - Complete technical proposal
 
 ---
 
@@ -840,10 +840,10 @@ Select Track (A/C/D)
   Email: talha@ai.yellowsense.in
 
 ### **Documentation**
-- **[Main README](../README.md)** - Project overview
-- **[Pitch Deck](../pitch-deck/)** - Business presentation
-- **[Full Proposal](../proposal/)** - Technical proposal
-- **[Demo Video](../demo/)** - Visual demonstration
+- **[Main README](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/blob/main/README.md)** - Project overview
+- **[Pitch Deck](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/tree/main/PitchDeck)** - Business presentation
+- **[Full Proposal](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/tree/main/Proposal_Document/)** - Technical proposal
+- **[Demo Video](https://github.com/yellowsense2008/uidai-sitaa-contactless-fingerprint/tree/main/Demo)** - Visual demonstration
 
 ---
 
