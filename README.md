@@ -26,7 +26,7 @@
 
 **Unified Application** - Single APK containing all implemented tracks (A, B, C, D)
 
-**[📺 Watch Demo Video](https://github.com/yellowsense2008/YellowSense_Contactless_Fingerprint/blob/main/Demo_Video/V2_demo_video.mp4)** - Complete walkthrough of all tracks
+**[📺 Watch Demo Video](https://github.com/yellowsense2008/YellowSense_Contactless_Fingerprint/blob/main/Demo_Video/V2_YellowSense_Contactless_Fingerprint_demo_video.mp4)** - Complete walkthrough of all tracks
 
 ---
 
@@ -388,7 +388,7 @@ Latency: <100ms per frame
    - Select desired track from home screen
 
 5. **Watch Demo**
-   - [View Demo Video](https://github.com/yellowsense2008/YellowSense_Contactless_Fingerprint/blob/main/Demo_Video/V2_demo_video.mp4) to see all tracks in action
+   - [View Demo Video](https://github.com/yellowsense2008/YellowSense_Contactless_Fingerprint/blob/main/Demo_Video/V2_YellowSense_Contactless_Fingerprint_demo_video.mp4) to see all tracks in action
 
 **Detailed usage guide available in APK folder**
 
